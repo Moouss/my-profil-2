@@ -1,0 +1,71 @@
+
+h1 {
+  color: #FF1F5A;
+  font-size: 40px;
+  font-family: Luckiest Guy, Display;
+
+}
+
+h2 {
+  color: #FF1F5A;
+  font-size: 35px;
+  font-family: Bangers, Display;
+
+}
+
+h3 {
+  color: #FF1F5A;
+  font-family: Bangers, Display;
+  font-size: 30px;
+
+}
+
+li {
+  color: grey;
+  font-family: Ranga, cursive;
+  font-size: 25px;
+
+}
+
+p {
+ color: pink;
+ font-family: arial;
+ font-size: 16px;
+
+}
+
+body {
+	font-size: 25px;
+	line-height: 1.8;
+	letter-spacing: 1px;
+	color: rgb(30,30,30);
+	text-align: center;
+	font-weight: 500;
+	background-color: #FF1F5A;
+	font-family: arial;
+	color: white;
+
+}
+
+div {
+   background: white; 
+   margin: 30px;
+   padding: 5px;
+   border: 10px solid grey;
+   border-radius: 40px;
+   box-shadow: 0px 10px 50px rgba(5, 5, 5, 0.5);
+
+}
+
+.img-circle {
+  width: 300px;
+  height: 300px;
+  border-radius: 70%;
+
+}
+
+
+
+
+
+
